@@ -269,7 +269,7 @@
                 "config_service -> item_service", 
                 "item_service -> discovery_service", 
                 "config_service -> price_service", 
-                "price_service -> discovery_service", 
+                "price_service -> discovery_service" 
             ]
         },
         "R22": {
